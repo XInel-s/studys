@@ -1,0 +1,15 @@
+Discentes: André Luis Bento, Guilherme da Silva Aparecido.
+Ciência da Computação Bacharelado - 2026.2
+
+sistema operacional: Arch Linux - 64 bits
+
+compilador utilizado: GCC 16.2.1
+
+IDE: vscode
+
+compilação
+gcc -Iinclude src/lista.c src/main.c -o lista.exe
+
+//Iinclude para incluir o arquivo .h
+
+
