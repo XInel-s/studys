@@ -11,5 +11,3 @@ compilação
 gcc -Iinclude src/lista.c src/main.c -o lista.exe
 
 //Iinclude para incluir o arquivo .h
-
-
